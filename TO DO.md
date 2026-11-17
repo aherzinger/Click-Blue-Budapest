@@ -1,9 +1,13 @@
-# TO DO
 
----
+TO DO:
+•⁠  ⁠What we actually wanna build
+•⁠  ⁠Find similar projects that succeeded as a validation
+•⁠  ⁠⁠how to finance it ( like airport in Tallin with sponsors ? )
+•⁠  ⁠⁠Materials we'll use for the construction
+•⁠  ⁠⁠Visuals ( What and how )
+•⁠  ⁠⁠Blue canvas ( How to structure it and whta to put inside )
+•⁠  ⁠⁠Pitch presentation
 
-1. Validate the Idea;
-
-For the visualisation:
-2. Find a photo for the project
-3. Find a voice for the project
+LATER:
+•⁠  ⁠Interview
+•⁠  ⁠⁠⁠Landing Page + video
